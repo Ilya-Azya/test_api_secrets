@@ -1,0 +1,24 @@
+# Python 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.idea/
+.vscode/
+
+# Virtualenv
+venv/
+env/
+.env/
+
+# Конфигурационные файлы
+*.log
+*.sqlite
+*.db
+
+# Директории с кэшами
+.cache/
